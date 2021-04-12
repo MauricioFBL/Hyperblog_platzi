@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: "Arial";
+    color: black;
+}
+
+#container{
+    width: 700px;
+    padding: 3rem;
+    text-align: left;
+    border: 1px solid lightslategray;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
