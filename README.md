@@ -3,7 +3,7 @@
 
 practica de markdonw en curso de platzi <br>
 **En este curso se vieron varios temas increibles**
-<ol>
+
 1. Todos los comandos de Git
 2. El flujo de trabajo en Github
 3. El verdadero amor por las buenas prácticas
